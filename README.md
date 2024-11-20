@@ -156,9 +156,9 @@ void loop()
 ![image](https://github.com/user-attachments/assets/66e72009-7c55-46f0-b8f0-a646e1f47410)
 
 # OUTPUT:
-<img src="https://github.com/user-attachments/assets/9e9feda2-6c26-4519-bfdc-a4cdfe3ca6c4" alt="image" style="width: 75%;">
+<img src="https://github.com/user-attachments/assets/9e9feda2-6c26-4519-bfdc-a4cdfe3ca6c4" alt="image" style="width: 49%;">
 
-![WhatsApp Image 2024-11-16 at 14 49 26_27a4097b](https://github.com/user-attachments/assets/21c831b8-3ac1-4b83-bc29-2b4042b49edc)
+<img src="https://github.com/user-attachments/assets/21c831b8-3ac1-4b83-bc29-2b4042b49edc" alt="image" style="width: 50%;">
 
 # RESULT:
 
